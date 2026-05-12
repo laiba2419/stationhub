@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "StationHubApp",
-    "slug": "StationHubApp",
+    "name": "stationhubapp",
+    "slug": "stationhubapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
